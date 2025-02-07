@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Xin chao duytc
+            Xin chao duytc thân mến
           </a>
         </div>
       </main>
